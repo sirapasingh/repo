@@ -1,2 +1,3 @@
 # repo
-It's the practice Repo for learning git
+It's the learn Repo for learning git and github
+It's Sirapa Singh
